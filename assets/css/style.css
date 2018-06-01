@@ -9,9 +9,10 @@ html, body{
 	line-height: 34px;
 	font-family: "Times New Roman", Times, serif;
     background-image: url("https://i.redd.it/uhutmnvbw3111.jpg");
-    background-repeat: space; 
+    background-repeat: round; 
     background-size: 100%;
-    height: 95%;  	
+    height: 100%; 
+    width: 100%;
 }
 #header1{
     color: white;
